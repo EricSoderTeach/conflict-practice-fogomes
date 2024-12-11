@@ -4,7 +4,7 @@
 
 ---
 
-This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
+This playable post is [public domain (CC0)](https://ericsoderteach.github.io/conflict-practice-fogomes/).
 
 
 This repository also has some baked in merge conflicts for practice. 
